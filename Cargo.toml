@@ -1,0 +1,13 @@
+[package]
+name = "rust_example_concurrency"
+version = "1.0.0"
+edition = "2021"
+rust-version = "1.80"
+description = "Exemplo de concorrencia: paralelismo, sincronizacao e processamento assincrono."
+authors = ["Engineering Team <engineering@example.com>"]
+license = "MIT"
+repository = "https://git.example.com/rust-example-concurrency"
+keywords = ["reference", "example"]
+readme = "README.md"
+
+[dependencies]
